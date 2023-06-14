@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @asfigit
+- 👋 Hi, I’m Shabnoor Arif
 - 👀 I’m interested in Software & Web Development as well as teaching
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on new concepts
-- 📫 How to reach me +923173890469 and iamasfi143@gmail.com
+- 📫 How to reach me shabnoor.moon@gmail.com
 
 <!---
 asfigit/asfigit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
